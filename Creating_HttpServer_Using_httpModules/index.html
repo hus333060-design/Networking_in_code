@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+     <!-- <form action="http://192.168.1.17:5000/" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" required />
+        <button type="submit" >Upload</button>
+     </form> -->
+     <script type="module">
+    // const response = await fetch("http://192.168.1.17:5000");
+    // sedning post request by fetch
+    const response = await fetch("http://192.168.1.17:5000/test",{
+        method:"POST",
+        body:"Hii brother"
+    });
+       const data=await response.json();
+       console.log(data);   
+     </script>
+
+</body>
+</html>

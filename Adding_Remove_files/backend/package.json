@@ -1,0 +1,12 @@
+{
+  "name": "create_onlinegoogledrive_platform",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mime-types": "^3.0.2"
+  }
+}

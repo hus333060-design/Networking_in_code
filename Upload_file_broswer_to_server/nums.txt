@@ -1,0 +1,204 @@
+POST / HTTP/1.1
+Host: 192.168.1.17:5000
+Connection: keep-alive
+Content-Length: 6755
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundarytNV3gi06H4cbxuWb
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
+Origin: http://127.0.0.1:5500
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://127.0.0.1:5500/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+------WebKitFormBoundarytNV3gi06H4cbxuWb
+Content-Disposition: form-data; name="file"; filename="tet.txt"
+Content-Type: text/plain
+
+=> Types of Software 
+                    SOFTWARE
+                       |
+          +------------+------------+
+          |            |            |
+     Application     System       Utility
+      Software      Software      Software
+
+1. Application Software
+:- it is created for user specific tasks.
+Example:-
+MS Word → documents banana
+MS Excel → calculations/data
+Chrome → web browsing
+Photoshop → image editing
+VLC → video/audio play
+
+2.System Software
+:- it manages/control the handware of the computer it provides the environment of application software to run in the computer.It is knowns operation System.
+Examples:
+
+Windows
+Linux
+macOS
+Device drivers
+Firmware
+
+3.Utility Software
+:- it mantains/protects and optimize of computers
+Examples:
+
+Antivirus → malware se protection
+Disk Cleanup → unnecessary files clean
+Backup software → data backup
+File compression tools → files ko compress karna
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+=> classfication based on the size and working principles
+1.Classification Based on Size
+a.Microcomputer
+-> It is a small size computer and relatively has low processing power.
+-> It uses a single integrated circuit microprocessor ,
+-> It usually for single user.
+-> It is moderate in a cost.
+-> it is uses for Personal work.
+
+Example:-Examples: Desktop, Laptop, Tablet
+
+b.MiniComputer
+-> It was begin used in 1970s.
+-> It was larger than microcomputer
+-> It had a higher capactity than micrpcomputer.
+-> Multiple user could use it at a same time.
+-> It uses for Departments/organizations
+
+Example:- PDP-11, VAX
+
+c. MainFrame Computer
+-> It processes the data into larger scale like huge number of transcations means it designed for handle users. It can acts like servers.
+-> it looks like big in the size.
+-> It was larger then minincompuer.
+-> It can handle multiple at a same time.
+-> It uses in the banks,Airlines.
+
+Example:- MaxiComputer , Big iron
+
+d.Supercomputer
+-> It is higher permontance then all these computer. like heavy caluculation.
+-> super expensive.
+-> It is very larger then mainframe
+-> It is uses for specificly scientific work.
+-> It uses in Weather forecasting, space research, simulations
+
+Example:- LineShine, Jupiter.
+
+2.working principles
+
+              COMPUTER
+                  |
+        +---------+---------+
+        |         |         |
+      Analog    Digital   Hybrid
+
+
+A.Analog Computer:- It is designed for working with physical quantities like speed,pules and more.
+
+Example:- speed:- 0 km/h → 10 → 20 → 20.5 → 20.51 → 20.52 …
+speedometer computer is used for measuring it.
+
+B.Digital Computer
+Digital computer data ko discrete values, normally binary 0 and 1, ke form mein process karta hai.
+
+Aaj ke almost saare common computers digital hain:
+
+Desktop
+Laptop
+Smartphone
+Digital calculator
+
+C.Hybrid = Analog + Digital
+Yaani isme analog data ko handle karne ki capability aur digital processing dono combine kiye ja sakte hain.
+
+Example: medical monitoring systems.
+Heartbeat
+Temperature
+Blood pressure
+       ↓
+Physical/analog signals
+       ↓
+Hybrid system
+       ↓
+Digital processing
+       ↓
+Monitor par numerical/readable output
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+=> Generations of Computers
+
+flow :-
+1st Generation → Vacuum Tubes
+        ↓
+2nd Generation → Transistors
+        ↓
+3rd Generation → Integrated Circuits (IC)
+        ↓
+4th Generation → Microprocessors
+        ↓
+5th Generation → Artificial Intelligence
+
+1. First Generation (1940–1956)
+Main technology: Vacuum Tubes
+-> it looks like electric buld but it is not bcz it controls the flow of electricity to amplify and switch singals.
+->It has heating wire is called filament in the glass tube.in the glowing filament creates light. the hot filaments release electrons bcz it get into its exvited stage that travel across the vaccum of the metal plate to control currnt.
+-> It is larger in the size.
+-> very high energy consumption
+-> It only uses machine language.
+-> it heat up vey fast, many the filament used to burned out, higher chance of process failure.
+
+Examples: ENIAC
+
+2.Second Generation (1956–1963)
+Main technology: Transistors
+
+-> it reaplace the vaccum tube technology.
+-> it is temporarily hold and control the flow of electrons and it is basically made of silicon elements, it is atomic number is 14 one interesting we take silicom form sand but behind it is going huge work.
+-> It is smaller than vaccum tube.
+-> faster than vaccum tude 
+-> take less energy than vacuum tube.
+-> low chance of failure process.
+-> in the era we have created FORTRAN, COBOL lanagues.
+
+3.Third Generation (1964–1971)
+Main technology: Integrated Circuit (IC)
+:- It is small integrated of multiple compoents hub like it has capacitor, transistos,registors. 
+-> many ICs used to crated a CPU.
+-> increased speed.
+-> size smaller
+-> decresed the cost price
+-> Windows like os is also crated in this era.
+
+4.Fourth Generation (1971–Present)
+-> In the Era microprocessor introduced, it is a single chip that is intergrated with millions of trasnsistor .
+Isi generation ki technology se modern:
+
+Personal computers
+Laptops
+Smartphones
+Embedded systems
+
+5. Fifth Generation (Present & Developing)
+Main focus: Artificial Intelligence (AI)
+Examples of technologies:
+
+Artificial Intelligence
+Machine Learning
+Natural Language Processing
+Robotics
+Expert systems 
+------WebKitFormBoundarytNV3gi06H4cbxuWb--
